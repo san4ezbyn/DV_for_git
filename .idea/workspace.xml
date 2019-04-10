@@ -1,0 +1,1242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/CreateNewBesluit.java" line="303" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="43aee78c-28dc-4cc8-a06f-34aba0ef73f4" name="Default Changelist" comment="fvfvda">
+      <change afterPath="$PROJECT_DIR$/../ HomeTrain/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ HomeTrain/src/home/training/Enemy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ HomeTrain/src/home/training/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ HomeTrain/src/home/training/Genders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ HomeTrain/src/home/training/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ HomeTrain/src/home/training/Mage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ HomeTrain/src/home/training/MagicStick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ HomeTrain/src/home/training/MeleeWeapon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ HomeTrain/src/home/training/Mortal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ HomeTrain/src/home/training/Race.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ HomeTrain/src/home/training/Races.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ HomeTrain/src/home/training/RangeWeapon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ HomeTrain/src/home/training/Sword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ HomeTrain/src/home/training/Warrior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ HomeTrain/src/home/training/Weapon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ HomeTrain/src/home/training/Zombie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CollectionsTask/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CollectionsTask/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CollectionsTask/src/com/collections/MyActor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CompareDates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DateOrderASD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DateOrderDESC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MeetingsAGBIdir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MeetingsAGBIraad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MeetingsAGBMdir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MeetingsAGBMraad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MeetingsBCSD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MeetingsGemeenteraad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MeetingsOCMW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MeetingsSchepenCollege.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MeetingsVastBureau.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JustForTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Size.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileInFileOut/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileInFileOut/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileInFileOut/src/in/out/MyTraining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileInFileOut/src/myPizza/Becon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileInFileOut/src/myPizza/CheezeMato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileInFileOut/src/myPizza/Ingredients.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileInFileOut/src/myPizza/MakePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileInFileOut/src/myPizza/MyPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileInFileOut/src/myPizza/MyPizzaIngredients.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileInFileOut/src/pizza/Cheeze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileInFileOut/src/pizza/Cook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileInFileOut/src/pizza/Ham.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileInFileOut/src/pizza/Ingredients.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileInFileOut/src/pizza/Mushrooms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileInFileOut/src/pizza/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileInFileOut/src/pizza/PizzaIngredients.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileInFileOut/src/pizza/Tomato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileInFileOut/src/printIn/printOut/playingGround.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FunFairGames/src/main/java/GamesListPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FunFairGames/src/main/java/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FunFairGames/src/main/java/OpenBJPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FunFairGames/src/test/java/RunTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeTaskItAcademy/src/homeTask/collections/CompStud.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeTaskItAcademy/src/homeTask/collections/Comparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeTaskItAcademy/src/homeTask/collections/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentTrainingTask/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentTrainingTask/src/Comparator/Iterator/CompareByAge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentTrainingTask/src/Comparator/Iterator/CompareByFirstName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentTrainingTask/src/Comparator/Iterator/CompareByLastName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentTrainingTask/src/Comparator/Iterator/IteratorEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentTrainingTask/src/Comparator/Iterator/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentTrainingTask/src/collections/set/Hash/SetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentTrainingTask/src/collections/set/Hash/Tasks/set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentTrainingTask/src/map/MapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../justTraining/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../justTraining/src/drillOnStream/Start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../justTraining/src/in/out/Ham.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../justTraining/src/in/out/Ingredients.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../justTraining/src/in/out/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../justTraining/src/in/out/PizzaIngredients.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../justTraining/src/in/out/Tomato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../justTraining/src/person/Battle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../justTraining/src/person/Description.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../justTraining/src/person/Enemy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../justTraining/src/person/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../justTraining/src/person/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../justTraining/src/person/MeleeWeapon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../justTraining/src/person/Mortal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../justTraining/src/person/Races.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../justTraining/src/person/Sword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../justTraining/src/person/Talent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../justTraining/src/person/Warrior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../justTraining/src/person/Weapons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../justTraining/src/person/Zombie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../justTraining/src/streamLambda/homeTask/Launcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../justTraining/src/streams/MainStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../justTraining/src/streams/SameStreamsTraining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CloseWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CloseWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CreateNewBesluit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CreateNewBesluit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DeleteCopyBesluit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DeleteCopyBesluit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DeleteNewBesluit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DeleteNewBesluit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FindDecision.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MakeCopy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MakeCopy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Meetings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Meetings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Reacties.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Reacties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SearchBesluit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SearchBesluit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Start.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Start.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Vergaderingen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Vergaderingen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/VergaderingenArchief.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/VergaderingenArchief.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/RunTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RunTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CreateNewBesluit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CreateNewBesluit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DeleteCopyBesluit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DeleteCopyBesluit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DeleteNewBesluit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DeleteNewBesluit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/FindDecision.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/MakeCopy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MakeCopy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Meetings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Reacties.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Reacties.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Search.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Search.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SearchBesluit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SearchBesluit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Start.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Start.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Vergaderingen.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Vergaderingen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/VergaderingenArchief.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/VergaderingenArchief.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/RunTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/RunTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphizm/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Polymorphizm/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphizm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Polymorphizm/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphizm/out/production/Polymorphizm/Archer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Polymorphizm/out/production/Polymorphizm/Archer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphizm/out/production/Polymorphizm/Hero.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Polymorphizm/out/production/Polymorphizm/Hero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphizm/out/production/Polymorphizm/Mage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Polymorphizm/out/production/Polymorphizm/Mage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphizm/out/production/Polymorphizm/TrainingGround.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Polymorphizm/out/production/Polymorphizm/TrainingGround.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphizm/out/production/Polymorphizm/Warrior.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Polymorphizm/out/production/Polymorphizm/Warrior.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphizm/src/Archer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Polymorphizm/src/Archer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphizm/src/Enemy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Polymorphizm/src/Enemy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphizm/src/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Polymorphizm/src/Hero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphizm/src/Mage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Polymorphizm/src/Mage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphizm/src/TrainingGround.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Polymorphizm/src/TrainingGround.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphizm/src/Warrior.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Polymorphizm/src/Warrior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/out/production/untitled/com/company/Computer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/out/production/untitled/com/company/Computer.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/DV$RunTest_clickStartApp.ic" NAME="RunTest.clickStartApp Coverage Results" MODIFIED="1552477973499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1916391671">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="21" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.22" value="2" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.26" value="2" />
+          <entry key="project.open.time.28" value="2" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.38" value="2" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.75" value="1" />
+          <entry key="project.opened" value="22" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="46" />
+          <entry key="java" value="19913" />
+          <entry key="txt" value="6" />
+          <entry key="xml" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="19913" />
+          <entry key="PLAIN_TEXT" value="52" />
+          <entry key="XML" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="44" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="143" />
+          <entry key="xml" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="44" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="143" />
+          <entry key="XML" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/MeetingsAGBIdir.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="436">
+              <caret line="31" column="36" selection-start-line="30" selection-start-column="8" selection-end-line="31" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/MeetingsAGBIraad.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="334">
+              <caret line="32" column="36" selection-start-line="31" selection-start-column="7" selection-end-line="32" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Start.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="37" column="71" selection-start-line="37" selection-start-column="71" selection-end-line="37" selection-end-column="71" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/MeetingsAGBMdir.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="34" column="36" selection-start-line="33" selection-start-column="7" selection-end-line="34" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/MeetingsAGBMraad.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="249">
+              <caret line="33" column="36" selection-start-line="32" selection-start-column="8" selection-end-line="33" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/MeetingsBCSD.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/MeetingsGemeenteraad.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="470">
+              <caret line="72" column="85" selection-start-line="72" selection-start-column="16" selection-end-line="72" selection-end-column="90" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/MeetingsOCMW.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="58" column="17" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/MeetingsSchepenCollege.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="35" column="32" selection-start-line="34" selection-start-column="4" selection-end-line="35" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/MeetingsVastBureau.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="95" selection-start-line="95" selection-end-line="95" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>numberOfBesluiten2</find>
+      <find>//input[@id='idSIButton9'][@value = 'Next']</find>
+      <find>13df2a8c</find>
+      <find>13df2a8</find>
+      <find>13d</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/dvcom/Home.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dvcom/Start.java" />
+        <option value="$PROJECT_DIR$/src/test/java/dvcomtest/RunTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Home.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NewFULLbesluit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DeleteMeeting.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FindDecision.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Schepencollege.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DeleteCopyBesluit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SearchBesluit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MeetingGemeenteraad.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Search.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DeleteNewBesluit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DatumOrder.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/MakeCopy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/A_HUB.java" />
+        <option value="$PROJECT_DIR$/src/test/java/CompareDates.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CompareDates.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Size.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Dogs.java" />
+        <option value="$PROJECT_DIR$/src/test/java/JustForTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DateOrder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DatumOrderDESC.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DateOrderDESC.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DateOrderASD.java" />
+        <option value="$PROJECT_DIR$/src/main/java/VergaderingenArchief.java" />
+        <option value="$PROJECT_DIR$/src/test/java/RunTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Meetings.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CreateNewBesluit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Reacties.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CloseWindow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Vergaderingen.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MeetingsGemeenteraad.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MeetingsAGBIdir.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MeetingsAGBIraad.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MeetingsAGBMdir.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MeetingsAGBMraad.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MeetingsBCSD.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MeetingsOCMW.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MeetingsSchepenCollege.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MeetingsVastBureau.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Start.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="DV" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="DV" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="DV" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="DV" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.seleniumhq.selenium:selenium-java:3.14.0" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1922" />
+    <option name="y" value="17" />
+    <option name="width" value="1918" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DV" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DV" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DV" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DV" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DV" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DV" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DV" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554891685225" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.RunTest">
+    <configuration name="JustForTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JustForTest" />
+      <module name="DV" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DV" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RunTest" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunTest.clickStartApp" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DV" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RunTest" />
+      <option name="METHOD_NAME" value="clickStartApp" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunTest.createNewDecision" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DV" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RunTest" />
+      <option name="METHOD_NAME" value="createNewDecision" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunTest.reactions" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DV" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RunTest" />
+      <option name="METHOD_NAME" value="reactions" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.RunTest.clickStartApp" />
+      <item itemvalue="TestNG.RunTest" />
+      <item itemvalue="TestNG.RunTest.createNewDecision" />
+      <item itemvalue="TestNG.RunTest.reactions" />
+      <item itemvalue="Application.JustForTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.RunTest" />
+        <item itemvalue="TestNG.RunTest.clickStartApp" />
+        <item itemvalue="Application.JustForTest" />
+        <item itemvalue="TestNG.RunTest.reactions" />
+        <item itemvalue="TestNG.RunTest.createNewDecision" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43aee78c-28dc-4cc8-a06f-34aba0ef73f4" name="Default Changelist" comment="" />
+      <created>1552467326941</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552467326941</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="RunTest_clickStartApp - 2019.04.09 at 15h 04m 59s.xml">
+      <configuration name="RunTest.clickStartApp" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="RunTest_clickStartApp - 2019.04.09 at 15h 10m 43s.xml">
+      <configuration name="RunTest.clickStartApp" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="RunTest_clickStartApp - 2019.04.09 at 15h 12m 23s.xml">
+      <configuration name="RunTest.clickStartApp" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="RunTest_clickStartApp - 2019.04.10 at 09h 04m 38s.xml">
+      <configuration name="RunTest.clickStartApp" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="RunTest_clickStartApp - 2019.04.10 at 09h 06m 25s.xml">
+      <configuration name="RunTest.clickStartApp" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="RunTest - 2019.04.10 at 10h 55m 29s.xml">
+      <configuration name="RunTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="RunTest - 2019.04.10 at 10h 56m 28s.xml">
+      <configuration name="RunTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="RunTest - 2019.04.10 at 11h 07m 00s.xml">
+      <configuration name="RunTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="RunTest - 2019.04.10 at 12h 13m 06s.xml">
+      <configuration name="RunTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="RunTest - 2019.04.10 at 13h 21m 41s.xml">
+      <configuration name="RunTest" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1928" y="4" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15938166" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36836404" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" sideWeight="0.49919224" weight="0.12686567" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" sideWeight="0.50080776" side_tool="true" weight="0.12846482" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Search.java</url>
+          <line>68</line>
+          <properties class="Search" method="searchIsCorrect">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="TestNG">
+        <watch expression="cbsText" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>cbsText</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>besluit.getText()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/webdriver/webdriver-common/0.9.7376/webdriver-common-0.9.7376.jar!/org/openqa/selenium/WebDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="32" column="20" lean-forward="true" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="497" selection-start-line="497" selection-end-line="497" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/jre/lib/rt.jar!/sun/reflect/DelegatingMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.14.0/selenium-api-3.14.0.jar!/org/openqa/selenium/interactions/Actions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="226" column="19" selection-start-line="226" selection-start-column="19" selection-end-line="226" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.2/testng-6.14.2.jar!/org/testng/internal/MethodInvocationHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="108" selection-start-line="108" selection-end-line="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.14.0/selenium-support-3.14.0.jar!/org/openqa/selenium/support/ui/ExpectedConditions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="615" column="45" selection-start-line="615" selection-start-column="45" selection-end-line="615" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DV.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/time/LocalDateTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="501" column="12" selection-start-line="501" selection-start-column="12" selection-end-line="501" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2938" column="25" selection-start-line="2938" selection-start-column="25" selection-end-line="2938" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MeetingGemeenteraad.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/time/format/DateTimeFormatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="482" column="19" selection-start-line="482" selection-start-column="19" selection-end-line="482" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.2/testng-6.14.2.jar!/org/testng/TestRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4794">
+          <caret line="360" selection-start-line="360" selection-end-line="360" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.2/testng-6.14.2.jar!/org/testng/SuiteRunnerWorker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.2/testng-6.14.2.jar!/org/testng/TestNG.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13345">
+          <caret line="889" selection-start-line="889" selection-end-line="889" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.2/testng-6.14.2.jar!/org/testng/SuiteRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="302" selection-start-line="302" selection-end-line="302" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.2/testng-6.14.2.jar!/org/testng/internal/TestMethodWorker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.2/testng-6.14.2.jar!/org/testng/internal/Invoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="803" selection-start-line="803" selection-end-line="803" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="1564" column="18" selection-start-line="1564" selection-start-column="18" selection-end-line="1564" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/NumberFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/JustForTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Dogs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="66" column="16" selection-start-line="66" selection-start-column="16" selection-end-line="66" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Size.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+          <folding>
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/A_HUB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="719">
+          <caret line="115" column="52" selection-start-line="115" selection-start-column="31" selection-end-line="115" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FindDecision.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Meetings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="634">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/RunTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="81" column="35" selection-start-line="81" selection-start-column="35" selection-end-line="81" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CreateNewBesluit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="197" column="34" selection-start-line="197" selection-start-column="34" selection-end-line="197" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CompareDates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DateOrderASD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="90" column="25" lean-forward="true" selection-start-line="90" selection-start-column="25" selection-end-line="90" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DateOrderDESC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="60" column="22" lean-forward="true" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DeleteCopyBesluit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="41" column="30" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DeleteNewBesluit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="46" column="45" selection-start-line="46" selection-start-column="45" selection-end-line="46" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Search.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-91">
+          <caret line="51" column="34" selection-start-line="51" selection-start-column="34" selection-end-line="51" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/VergaderingenArchief.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="63" column="36" selection-start-line="63" selection-start-column="36" selection-end-line="63" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Home.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SearchBesluit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="43" column="42" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MakeCopy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Reacties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1178">
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CloseWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#505#513#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Vergaderingen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-391">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MeetingsAGBIdir.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="31" column="36" selection-start-line="30" selection-start-column="8" selection-end-line="31" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MeetingsAGBIraad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="32" column="36" selection-start-line="31" selection-start-column="7" selection-end-line="32" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MeetingsAGBMdir.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="34" column="36" selection-start-line="33" selection-start-column="7" selection-end-line="34" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MeetingsAGBMraad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="33" column="36" selection-start-line="32" selection-start-column="8" selection-end-line="33" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MeetingsBCSD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MeetingsGemeenteraad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="72" column="85" selection-start-line="72" selection-start-column="16" selection-end-line="72" selection-end-column="90" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MeetingsOCMW.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="58" column="17" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MeetingsSchepenCollege.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="35" column="32" selection-start-line="34" selection-start-column="4" selection-end-line="35" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Start.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="37" column="71" selection-start-line="37" selection-start-column="71" selection-end-line="37" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MeetingsVastBureau.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>DV</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.beust:jcommander:1.72</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
