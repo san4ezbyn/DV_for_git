@@ -29,8 +29,8 @@ public class MeetingsAGBIraad {
         private List<WebElement> listOfMeetings;
         private String NEW_BESLUIT = "New Besluit Title";
 
-       /* @FindBy(xpath = "//li[@class='app-table-content-row']//*[contains(text(),'Bekijk')]")
-        private WebElement bekijk;*/
+        @FindBy(xpath = "//li[@class='app-table-content-row']//*[contains(text(),'Bekijk')]")
+        private WebElement bekijk;
 
         @FindBy(xpath = "//a[@target='_blank']")
         private WebElement target;
@@ -50,8 +50,8 @@ public class MeetingsAGBIraad {
             for (WebElement college : listOfMeetings) {
 
                 if (college.getText().contains(NEW_BESLUIT)) {
-                    driver.findElement(By.xpath("//span[contains(text(),'Bekijk')]")).click();
-                    //bekijk.click();
+                    //driver.findElement(By.xpath("//span[contains(text(),'Bekijk')]")).click();
+                    bekijk.click();
                 }
             }
             switchWindow();

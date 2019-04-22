@@ -57,11 +57,11 @@
             <artifactId>log4j</artifactId>
             <version>1.2.12</version>
         </dependency>
-        <!--<dependency>
-            <groupId>org.seleniumhq.webdriver</groupId>
-            <artifactId>webdriver-chrome</artifactId>
-            <version>0.9.7376</version>
-        </dependency>-->
+        <dependency>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-compiler-plugin</artifactId>
+            <version>3.8.0</version>
+        </dependency>
 
     </dependencies>
     <build>
@@ -78,6 +78,11 @@
                          </suiteXmlFiles>-->
                     </configuration>
                 </plugin>
+                <plugin>
+                    <groupId>org.apache.maven.plugins</groupId>
+                    <artifactId>maven-assembly-plugin</artifactId>
+                    <version>3.1.1</version>
+                </plugin>
             </plugins>
         </pluginManagement>
         <plugins>
@@ -93,6 +98,9 @@
             </plugin>
         </plugins>
     </build>
+
+
+
 
 
 

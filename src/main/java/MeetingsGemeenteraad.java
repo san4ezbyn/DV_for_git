@@ -32,9 +32,9 @@ public class MeetingsGemeenteraad {
     @FindBy(xpath = "//li[@class='app-table-content-row']")
     private List<WebElement> listOfMeetings;
     private String NEW_BESLUIT = "New Besluit Title";
-/*
+
         @FindBy(xpath = "//li[@class='app-table-content-row']//*[contains(text(),'Bekijk')]")
-        private WebElement bekijk;*/
+        private WebElement bekijk;
 
     @FindBy(xpath = "//div[@class='bekijkHeader'][contains(text(),'Samenvatting')]")
     private WebElement samenvattingInAgendapunkt;
@@ -70,7 +70,7 @@ public class MeetingsGemeenteraad {
         for (WebElement meeting : listOfMeetings) {
 
             if (meeting.getText().contains(NEW_BESLUIT)) {
-                driver.findElement(By.xpath("//span[contains(text(),'Bekijk')]")).click();
+                bekijk.click();
 
             }
         }

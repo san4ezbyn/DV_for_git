@@ -2,6 +2,7 @@ import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
@@ -15,7 +16,7 @@ public class MakeCopy {
     private String NEW_DECISION = "New Besluit Title";
     private String COPY_DECISION = "Kopie van New Besluit Title";
 
-    @FindBy(xpath = "//span[contains(text(), 'Kopieer besluit')]")
+    @FindBy(xpath = "//a[@id='copyBtn']")
     private WebElement copyBesluit;
     @FindBy(xpath = "//a[contains(text(), 'Besluiten')]")
     private WebElement goToBesluiten;
@@ -43,20 +44,16 @@ public class MakeCopy {
         listOfBesluiten = driver.findElements(By.xpath("//div[@class='app-table-content-row']"));
         for (WebElement besluit : listOfBesluiten) {
             if (besluit.getText().contains(NEW_DECISION)) {
-                besluit = besluitToCopy;
-                /*Actions act = new Actions(driver);
-                act.doubleClick(besluitToCopy).perform();*/
                 besluitToCopy.click();
                 break;
             }
         }
-
     }
 
     public DeleteCopyBesluit makeCopy() {
-       /* findBesluitToCopy();
-        Thread.sleep(1000);*/
-        besluitToCopy.click();
+
+        findBesluitToCopy();
+
         ArrayList<String> tabs2 = new ArrayList<String>(driver.getWindowHandles());
         driver.switchTo().window(tabs2.get(0));
         driver.close();
@@ -67,7 +64,8 @@ public class MakeCopy {
         Alert alert = driver.switchTo().alert();
         alert.accept();
         goTo7Documenten.click();
-       wait.until(ExpectedConditions.elementToBeClickable(buttonVoltooien)).click();
+        wait.until(ExpectedConditions.textToBePresentInElement(buttonVoltooien, "Voltooien"));
+        buttonVoltooien.click();
         goToBesluiten.click();
 
 
@@ -82,6 +80,7 @@ public class MakeCopy {
             if (besluit.getText().matches(COPY_DECISION)) {
                 return true;
             }
-        }return false;
+        }
+        return false;
     }
 }

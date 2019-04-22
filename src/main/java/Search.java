@@ -1,7 +1,6 @@
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.Select;
@@ -29,7 +28,7 @@ public class Search {
     @FindBy(xpath = "//div[@id=\"soortDiv\"]")
     private WebElement searchBySoort;
 
-       @FindBy(xpath = "//input[@value='3']")
+    @FindBy(xpath = "//input[@value='3']")
     private WebElement soortAlgemeen;
 
     @FindBy(xpath = "//select[@id='ddDienst']")
@@ -37,16 +36,16 @@ public class Search {
     @FindBy(xpath = "//option[@value='13'][contains(text(),'aankoopdienst')]")
     private WebElement aankoopdienst;
 
-      @FindBy(xpath = "//select[@id='ddSoort']")
+    @FindBy(xpath = "//select[@id='ddSoort']")
     private WebElement listSoort;
 
-      @FindBy(xpath = "//nav[@class='main-nav']//a[contains(text(),'Besluiten')]")
-      private WebElement goToBesluiten;
+    @FindBy(xpath = "//nav[@class='main-nav']//a[contains(text(),'Besluiten')]")
+    private WebElement goToBesluiten;
 
-    public Search(WebDriver driver){
-        this.driver=driver;
-        wait=new WebDriverWait(driver, 30, 60);
-        PageFactory.initElements(this.driver,this);
+    public Search(WebDriver driver) {
+        this.driver = driver;
+        wait = new WebDriverWait(driver, 30, 60);
+        PageFactory.initElements(this.driver, this);
     }
 
     public Reacties testZoeken() {
@@ -68,13 +67,14 @@ public class Search {
 
     public boolean searchIsCorrect() {
         List<WebElement> besluitenList;
-       besluitenList = driver.findElements(By.xpath("//div[@class='app-table-content-row']"));
+        besluitenList = driver.findElements(By.xpath("//div[@class='app-table-content-row']"));
         for (WebElement myBesluit : besluitenList) {
             if (myBesluit.getText().contains(SEARCH_TITLE)) {
                 System.out.println("I found BESLUIT");
                 return true;
             }
-        } System.out.println("SEARCH (ZOEKEN): I have not found BESLUIT(should return FALSE)");
+        }
+        System.out.println("SEARCH (ZOEKEN): I have not found BESLUIT");
         return false;
     }
 

@@ -33,8 +33,8 @@ public class MeetingsVastBureau {
     private List<WebElement> listOfMeetings;
     private String NEW_BESLUIT = "New Besluit Title";
 
-   /* @FindBy(xpath = "//li[@class='app-table-content-row']//*[contains(text(),'Bekijk')]")
-    private WebElement bekijk;*/
+    @FindBy(xpath = "//li[@class='app-table-content-row']//*[contains(text(),'Bekijk')]")
+    private WebElement bekijk;
 
     @FindBy(xpath = "//div[@class='bekijkHeader'][contains(text(),'Samenvatting')]")
     private WebElement samenvattingInAgendapunkt;
@@ -70,9 +70,8 @@ public class MeetingsVastBureau {
         for (WebElement college : listOfMeetings) {
 
             if (college.getText().contains(NEW_BESLUIT)) {
-                driver.findElement(By.xpath("//span[contains(text(),'Bekijk')]")).click();
-               // bekijk.click();
 
+               bekijk.click();
             }
         }
 

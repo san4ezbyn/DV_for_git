@@ -46,7 +46,7 @@ public class Reacties {
     @FindBy(xpath = "//i[@class='material-icons']")
     private WebElement deleteReaction;
 
-    @FindBy (xpath = "//a[contains(text(), 'Terug naar overzicht')]")
+    @FindBy(xpath = "//a[contains(text(), 'Terug naar overzicht')]")
     private WebElement goToOverzicht;
 
     @FindBy(xpath = "//nav[@class='main-nav']//a[contains(text(),'Besluiten')]")
@@ -56,23 +56,18 @@ public class Reacties {
 
         for (WebElement element : listOfBesluiten) {
             if (element.getText().contains(NEW_BESLUIT)) {
-                Actions action = new Actions(driver);
-               action.doubleClick(titleOfBesluit).perform();
-               // action.doubleClick(element).perform();
+                titleOfBesluit.click();
                 break;
             }
         }
     }
 
-    public MakeCopy reaction() {
+    public MakeCopy reaction() throws InterruptedException {
 
-     // goToBesluiten.click(); //not nessasary. Delete it - as well as method which searches for NEW besluit (Class SEARCH finds it - so, click it to open and add reaction
 
-     // findBesluit();
+        findBesluit();
 
-        titleOfBesluit.click();
-
-               ArrayList<String> tabs2 = new ArrayList<String>(driver.getWindowHandles());
+        ArrayList<String> tabs2 = new ArrayList<String>(driver.getWindowHandles());
         driver.switchTo().window(tabs2.get(0));
         driver.close();
         driver.switchTo().window(tabs2.get(1));

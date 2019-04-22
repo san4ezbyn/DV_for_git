@@ -45,9 +45,7 @@ public class SearchBesluit {
     }
 
     public boolean verifyBesluitCreated() {
-        List<WebElement> listOfBesluiten;
-        listOfBesluiten = driver.findElements(By.xpath("//div[@class='app-table-content-row']"));
-
+        List<WebElement> listOfBesluiten = driver.findElements(By.xpath("//div[@class='app-table-content-row']"));
         for (WebElement besluit : listOfBesluiten) {
             if (besluit.getText().contains(NEW_MEETING)) {
                 return true;

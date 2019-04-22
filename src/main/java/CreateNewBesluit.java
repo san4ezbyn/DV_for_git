@@ -153,7 +153,8 @@ public class CreateNewBesluit {
 
     @FindBy(xpath = "//h4[contains(text(), 'Juridisch Kader')]")
     private WebElement goTo3JuridischKader;
-    @FindBy(xpath = "//div[@data-placeholder=\'Typ hier het juridisch kader...\']")
+    //    @FindBy(xpath = "//div[@data-placeholder=\'Typ hier het juridisch kader...\']")
+    @FindBy(xpath = "//div[@data-placeholder='Typ hier het juridisch kader...']")
     private WebElement textFieldJuridischKader;
 
     @FindBy(xpath = "//h4[contains(text(), 'Financieel Kader')]")
@@ -232,33 +233,33 @@ public class CreateNewBesluit {
 
         goTo2AlgemeenKader.click();
 
-        Thread.sleep(200);
+        // Thread.sleep(200);
         wait.until(ExpectedConditions.visibilityOf(summerNoteField)).click();
         // summerNoteField.click();
         summerNoteField.sendKeys("ALGEMEEN KADER textfield\n\nLOREM IPSUM TEST TEXT", Keys.ENTER);
 
-        wait.until(ExpectedConditions.elementToBeClickable(goTo3JuridischKader));
+        // wait.until(ExpectedConditions.elementToBeClickable(goTo3JuridischKader));
         wait.until(ExpectedConditions.elementToBeClickable(buttonVolgende)).click();
 
         wait.until(ExpectedConditions.textToBePresentInElementLocated(By.xpath("//span[@class='next'][contains(text(), 'Volgende')]"), "Volgende"));
-        wait.until(ExpectedConditions.visibilityOf(textFieldJuridischKader));
-        wait.until(ExpectedConditions.visibilityOf(textFieldJuridischKader));
-        textFieldJuridischKader.click();
+        //   wait.until(ExpectedConditions.elementToBeClickable(textFieldJuridischKader));
+
+//        textFieldJuridischKader.click();
         textFieldJuridischKader.sendKeys("\n\nJURIDISCH KADER textfield\n\nLOREM IPSUM TEST TEXT", Keys.ENTER);
 
-        wait.until(ExpectedConditions.elementToBeClickable(goTo4FinancieelKader));
+        //  wait.until(ExpectedConditions.elementToBeClickable(goTo4FinancieelKader));
         wait.until(ExpectedConditions.elementToBeClickable(buttonVolgende)).click();
 
         wait.until(ExpectedConditions.visibilityOf(textFieldFinancieelKader));
-Thread.sleep(200);
-        budgetField.click();
+       // Thread.sleep(200);
+wait.until(ExpectedConditions.elementToBeClickable(budgetField)).click();
         budgetField.sendKeys("1.000.000.000.009,88");
 
-        textFieldFinancieelKader.click();
+        // textFieldFinancieelKader.click();
         textFieldFinancieelKader.sendKeys("\n\nFINANCIEEL KADER textfield\n\nLOREM IPSUM TEST TEXT", Keys.ENTER);
 
 
-        wait.until(ExpectedConditions.elementToBeClickable(gotToBesluit5));
+        //  wait.until(ExpectedConditions.elementToBeClickable(gotToBesluit5));
         wait.until(ExpectedConditions.elementToBeClickable(buttonVolgende)).click();
 
         textFieldCBS.sendKeys("\n\nCBS text (Besluit)\n\nLOREM IPSUM TEST TEXT");
@@ -299,8 +300,8 @@ Thread.sleep(200);
         wait.until(ExpectedConditions.elementToBeClickable(buttonVolgende)).click();
 
 
-        wait.until(ExpectedConditions.visibilityOf(textFieldSamenvatting)).click();
-        Thread.sleep(200);
+        // wait.until(ExpectedConditions.visibilityOf(textFieldSamenvatting)).click();
+        // Thread.sleep(200);
         textFieldSamenvatting.sendKeys("\nSAMENVATTING textfield\n\nLOREM IPSUM TEST TEXT", Keys.ENTER);
 
         // Thread.sleep(5000);
@@ -312,7 +313,7 @@ Thread.sleep(200);
         //  Thread.sleep(500);
 
         wait.until(ExpectedConditions.elementToBeClickable(buttonVoltooien));
-        Thread.sleep(200);
+        // Thread.sleep(200);
         buttonVoltooien.click();
 
 
