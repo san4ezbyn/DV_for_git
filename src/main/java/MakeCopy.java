@@ -59,7 +59,6 @@ public class MakeCopy {
         driver.close();
         driver.switchTo().window(tabs2.get(1));
 
-
         copyBesluit.click();
         Alert alert = driver.switchTo().alert();
         alert.accept();
@@ -67,7 +66,6 @@ public class MakeCopy {
         wait.until(ExpectedConditions.textToBePresentInElement(buttonVoltooien, "Voltooien"));
         buttonVoltooien.click();
         goToBesluiten.click();
-
 
         return new DeleteCopyBesluit(this.driver);
     }
