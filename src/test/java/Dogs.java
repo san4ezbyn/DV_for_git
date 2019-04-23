@@ -66,9 +66,8 @@ public class Dogs {
     }
     public void bite(){
         if(dogsCount>2){
-            System.out.println("\nDogs are going to bite you.\n");
+            System.out.println("\nDogs are going to bite you...\n");
         }
         else bark();
     }
-
    }
